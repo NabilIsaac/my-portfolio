@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "An Isaac Nabils website",
   "scripts": {
-    "dev": "npx -p parcel-bundler parcel build src/index.html",
-    "prod": "npx -p parcel-bundler parcel build src/index.html"
+    "dev": "npx -p parcel build src/index.html",
+    "prod": "npx -p parcel build src/index.html"
   },
   "repository": "https://github.com/SantiMA10/tailwindcss-parcel-starter.git",
   "author": "Isaac Nabil",
