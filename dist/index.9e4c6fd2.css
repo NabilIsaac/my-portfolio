@@ -365,6 +365,15 @@ img, video {
   height: 2rem;
 }
 
+.h-auto {
+  height: auto;
+}
+
+.h-fit {
+  height: -moz-fit-content;
+  height: fit-content;
+}
+
 .w-8\/12 {
   width: 66.6667%;
 }
